@@ -18,7 +18,7 @@ Overall, FastSpeech demonstrates promising results in terms of both efficiency a
 ![image](https://github.com/chenyu-se/FastSpeech-Tensorflow/assets/17283947/31f89ff4-e46a-46a4-95f1-d785360aad2b)
 
 
-# Paper
+# Reference
 
 [1] Shen J, Pang R, Weiss R J, et al. Natural tts synthesis by conditioning wavenet on mel spectrogram predictions[C]//2018 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, 2018: 4779-4783.
 
